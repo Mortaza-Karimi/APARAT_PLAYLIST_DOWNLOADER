@@ -5,4 +5,4 @@ it is working
 
 it dwnload playlist from aparat
 
-python3 downloader.py
+`python3 downloader.py`
